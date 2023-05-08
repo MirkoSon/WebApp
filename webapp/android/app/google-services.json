@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "259201710740",
+    "project_id": "sohn-webapp",
+    "storage_bucket": "sohn-webapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259201710740:android:255f0b1a3b955c4a701281",
+        "android_client_info": {
+          "package_name": "com.example.webapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259201710740-443eikp02gfhg98jv4he3r7d93ecvnu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBYJNzDyVqonUgQcxq3lX27RU-Uj9kdwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259201710740-443eikp02gfhg98jv4he3r7d93ecvnu0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "259201710740-teai7ratovdevc9trlenaln97lel06sh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.webapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
